@@ -1,0 +1,1 @@
+type Tab = 'Skills' | 'Education';

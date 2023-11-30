@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #111010;
+  color: #ffffff;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+  font-family: 'Pretendard';
+}
