@@ -1,1 +1,2 @@
-framer-motion ♥️ TailwindCSS
+- framer-motion
+- TailwindCSS
