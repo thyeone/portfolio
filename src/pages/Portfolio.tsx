@@ -8,7 +8,7 @@ import Url from '@assets/project/url.svg';
 const Portfolio = () => {
   return (
     <Layout>
-      <h1 className="mb-12 text-4xl font-bold pb-5 border-b-[1px]">My Protfolio.</h1>
+      <h1 className="mb-12 text-4xl font-bold pb-5 border-b-[1px]">My Portfolio.</h1>
       {PORTFOLIO_LIST.map(({ id, title, image, problem, solution, url }) => (
         <Fragment key={id}>
           <h2 className="text-2xl font-semibold mt-7">{id + '. ' + title}</h2>
