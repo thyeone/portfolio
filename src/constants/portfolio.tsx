@@ -91,7 +91,7 @@ export const PORTFOLIO_LIST = [
     solution: (
       <ul className="ml-4 text-base list-disc">
         <li>
-          SSG 시점에는 fallback을 렌더링하도록 하는 <Inline text="SSRSafeSuspense" /> 라는 Suspense를 커스텀한
+          서버 사이드 렌더링 시점에는 fallback을 렌더링하도록 하는 Suspense를 커스텀한 <Inline text="SSRSafeSuspense" />{' '}
           컴포넌트를 구현하여 해결하였어요.
         </li>
         <li>
@@ -100,6 +100,7 @@ export const PORTFOLIO_LIST = [
         </li>
       </ul>
     ),
+    url: 'https://velog.io/@thkim/SSR-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-Suspense%EC%99%80-useQuery%EA%B0%80-%EC%98%A4%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0',
   },
   {
     id: 5,
