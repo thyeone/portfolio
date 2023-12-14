@@ -45,7 +45,7 @@ export const CHANNEL = [
   {
     id: 3,
     title: 'Resume',
-    link: 'https://www.rallit.com/resumes/412753@thyeonee/%EA%B9%80%ED%83%9C%ED%98%84',
+    link: 'https://drive.google.com/file/d/17no1Ptmqsqdf_dMmXTTdhhKSLAmmaj40/view?usp=sharing',
   },
   {
     id: 4,
